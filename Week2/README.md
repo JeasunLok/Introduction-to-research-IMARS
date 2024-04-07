@@ -23,7 +23,7 @@
 * [南京师范大学汤国安教授MOOC](https://www.icourse163.org/course/NJNU-1206774803?from=searchPage&outVendor=zw_mooc_pcssjg_)
 
 ### 本周技术TO DO LIST：
-- [ ] 学会如何使用Anaconda和VSCode管理自己的python环境，并安装python的opencv包，成功读入任何一张图像（学会使用Chatgpt和搜索引擎，下周说过了）
+- [ ] 学会如何使用Anaconda和VSCode管理自己的python环境，并安装python的opencv包，成功读入任何一张图像<b>（学会使用Chatgpt和搜索引擎，上周说过了）</b>
 - [ ] 完成Week2文件夹python文件夹中所有python文件的运行，看懂每一段代码的每一行输出
 - [ ] 完成Week2文件夹内mission文件夹的任务：利用ArcGIS进行操作，ENVI操作较难，是下周的任务
 
