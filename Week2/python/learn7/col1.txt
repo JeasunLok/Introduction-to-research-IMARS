@@ -1,0 +1,4 @@
+file1
+Python
+hello
+人生苦短
