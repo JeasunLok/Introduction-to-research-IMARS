@@ -33,6 +33,6 @@
 本周无，主要是技术
 
 ### 本周文献TO DO LIST（更新）:
-- [ ] <b>选做</b>：尝试阅读遥感领域经典的分类算法随机森林的原文：[<b>Classification of hyperspectral remote sensing images with support vector machines</b>](https://doi.org/10.1109/TGRS.2004.831865)
+- [ ] <b>选做</b>：尝试阅读遥感领域经典的分类算法支持向量机的原文：[<b>Classification of hyperspectral remote sensing images with support vector machines</b>](https://doi.org/10.1109/TGRS.2004.831865)
 
 ***
